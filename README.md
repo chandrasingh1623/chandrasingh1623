@@ -1,8 +1,8 @@
 # Hey, I'm Chandra
 
-**Software Engineer** crafting full-stack web applications with modern tools and clean architecture.
+**Software Engineer** crafting scalable products with modern tools and thoughtful architecture.
 
-I build products end-to-end -- from database design to pixel-perfect frontends. Currently focused on ecommerce platforms, operations & logistics tools, ETL pipelines, and AI-powered products.
+I design, build, and deploy software end-to-end. Currently focused on ecommerce platforms, operations & logistics tools, ETL pipelines, and AI-powered products.
 
 ---
 
