@@ -2,7 +2,7 @@
 
 **Software Engineer** crafting full-stack web applications with modern tools and clean architecture.
 
-I build products end-to-end -- from database design to pixel-perfect frontends. Currently focused on ecommerce platforms, marketplace apps, ETL pipelines, and AI-powered tools.
+I build products end-to-end -- from database design to pixel-perfect frontends. Currently focused on ecommerce platforms, operations & logistics tools, ETL pipelines, and AI-powered products.
 
 ---
 
